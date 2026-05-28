@@ -18,8 +18,10 @@
             android:id="@+id/tvwGreeting"
             android:breakStrategy = "balanced"
             android:layout_gravity="center"
+            android:layout_margin="20dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android: android:textSize="35dp"
             android:text="Bienvenid@"
             android:layout_marginBottom="16dp"/>
 
